@@ -1,0 +1,19 @@
+.item {
+    float: left;
+    background-color: rgba(251, 193, 88, 0.5);
+    height: 25px;
+    border: 1px solid #6e4801;
+    width: 25px;
+}
+
+.item-1 {
+	background-image: url("../../images/black.png");
+	background-position: center;
+	background-size: contain;
+}
+
+.item-2 {
+	background-image: url("../../images/white.png");
+	background-position: center;
+	background-size: contain;
+}
